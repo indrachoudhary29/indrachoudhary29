@@ -5,8 +5,6 @@
 
 - 🔭 I'm currently building **DocuSense Students AI** — a RAG-based textbook Q&A system for CBSE/ICSE/State Board students
 - 🌱 I'm currently learning **LangChain, LangGraph, and Cloud/DevOps automation**
-- 🤝 I'm looking for help with **DevOps and CI/CD**
-- 💬 Ask me about **Python, FastAPI, SQL, RAG systems, DevOps**
 - 📫 How to reach me: **indrachoudhary362@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
